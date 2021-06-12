@@ -32,3 +32,6 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# original source code
+src
